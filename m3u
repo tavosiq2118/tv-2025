@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="Canal 6" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 6_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 6 REPRETEL SD
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Canal 4" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 4_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 4 REPRETEL
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
+
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/ a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="COSTA RICA",CANAL 11 REPRETEL SD
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/480p.m3u8
+
+#EXTINF:-1 tvg-id="Canal2.cr" tvg-name="Canal 2" tvg-language="Español" tvg-logo="https://i.imgur.com/M8UyGHL.png" grupo- title="COSTA RICA",CANAL 2 CDR HD
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="Trivision36.cr" tvg-name="Trivision 36" tvg-language="Español" tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" grupo- title="COSTA RICA",Trivision 36
+https://rtmp.info/trivision36/envivo/chunklist_w2041923464.m3u8
+
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016 /06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="COSTA RICA",TELEUNO
+https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w258842420.m3u8
+
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="Canal 8" tvg-language="Español" tvg-logo="https://i.imgur.com/nefPi2Y.png" grupo- title="COSTA RICA",CANAL MULTIMEDIOS 8SD
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="TDtv.cr" tvg-name="TDtv" tvg-language="Español" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" grupo- title="COSTA RICA",Turrialba Digital Televisión
+http://190.7.192.164:8007/play/s23
+
+#EXTINF:-1 tvg-id="TVPLUS" tvg-name="CANAL TVPLUS" tvg-language="Español" logo="https://lh3.googleusercontent.com/LJTn7hx5i9OxMueAnkhZwrwTx6jCyluksZ4Z5mZF-UGPepA20M9atE71EqEVSMzfTyQJxg=s151" group-title= "COSTA RICA",FUTV
+http://45.190.187.226:58092/play/a00q
+
+#EXTINF:0 type="stream" channelId="-1" group="Costa Rica" logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png" group-title="COSTA RICA" , URBANO
+http://190.7.192.164:8001/play/s50
+
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" tvg-language="Español" tvg-logo="https://i.imgur.com/4kxxSCq.png" grupo- title="COSTA RICA",COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Español" tvg-logo="https://i.imgur.com /E9AuhOU.png" tvg-url="" group-title="COSTA RICA",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesistema.cr" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="COSTA RICA", Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-language="Español" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" grupo -title="COSTA RICA",TELESUR
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Humor247.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/HqbgrSF.png" group-title="COSTA RICA",HUMOR 24/7
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="COSTA RICA",VIDEO CANAL TURÍSTICO
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="COSTA RICA",COSTA RICA| SARAPIQUI TV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Extra TV 42 de Costa Rica" tvg-name="Canal Extra TV 42 de Costa Rica" tvg-language="Español" tvg-logo="https://imagenes.gatotv .com/logos/canales/oscuros/extra_tv-mediano.png" group-title="COSTA RICA",EXTRA TV 42
+http://190.7.192.163:8001/play/s4
+
+#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-language="Español" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" grupo- title="COSTA RICA",NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="COSTA RICA",AGROTENDENCIA TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w218075326.m3u8
+
+#EXTINF:-1 tvg-id="Canal38.cr" tvg-country="CR" tvg-language="Español" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019 /10/cropped-Logo-Nuevo-400.jpg" group-title="COSTA RICA",CANAL 38 ESTÉREO
+https://rtmp.info/canal38/envivo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_3abn-latino_m. png" group-title="RELIGIOSOS TV",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-country="CR" tvg-language="Español" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03 /img1920.jpg" group-title="COSTA RICA",88 ESTÉREO
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefides.cr" tvg-name="TELEFIDES" tvg-language="Español" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/media /telefides_canal_40_1.png" group-title="RELIGIOSOS TV",TELEFIDES
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefides.cr" tvg-name="TELEFIDES" tvg-language="Español" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/media /telefides_canal_40_1.png" group-title="RELIGIOSOS TV",TELEFIDES 2
+https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-language="Español" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" grupo- title="RELIGIOSOS TV", Monte María
+https://616eee1852d6c.streamlock.net/live/myStream_360p/chunklist_w1203170895.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1 /1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS TV",ENLACE JUVENIL
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+
+#EXTINF:0 tvg-id="UNIVERSIDAD UCR" tvg-name="UNIVERSIDAD UCR" tvg-language="Español" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/ 06/Canal-15-UCR-en-vivo-Online-218x150.png" group-title="COSTA RICA",QUINCE UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w1234502234.m3u8
+
+#EXTINF:-1 tvg-id="TVN14HD.cr" tvg-logo="https://i.imgur.com/C4bINFw.png" group-title="COSTA RICA",TVN 14 HD
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="COSTA RICA",TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
