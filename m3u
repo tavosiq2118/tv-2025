@@ -86,5 +86,5 @@ http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w1234502234.m3u8
 #EXTINF:-1 tvg-id="TVN14HD.cr" tvg-logo="https://i.imgur.com/C4bINFw.png" group-title="COSTA RICA",TVN 14 HD
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="COSTA RICA",TV Sur Canal 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="LimonTV.cr" tvg-language="Español" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="COSTA RICA",Limon TV
+https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist_w1710248255.m3u8
