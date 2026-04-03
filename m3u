@@ -10,7 +10,7 @@ https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="COSTA RICA",CANAL 11 REPRETEL
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/480p.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/M8UyGHL.png" group-title="COSTA RICA",CANAL 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/original.m3u8
@@ -25,7 +25,7 @@ https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w258842420.m3u8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-name="TDTV" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="COSTA RICA",TDTV
-http://190.7.192.164:8007/play/s23
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="FUTV" tvg-logo="https://lh3.googleusercontent.com/LJTn7hx5i9OxMueAnkhZwrwTx6jCyluksZ4Z5mZF-UGPepA20M9atE71EqEVSMzfTyQJxg=s151" group-title="COSTA RICA",FUTV
 http://45.190.187.226:58092/play/a00q
@@ -74,3 +74,4 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Limon TV" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="COSTA RICA",LIMON TV
 https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist_w1710248255.m3u8
+
