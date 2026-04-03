@@ -13,7 +13,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/480p.m3u8
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-name="Trivision 36" tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" group-title="COSTA RICA",TRIVISION 36
-https://rtmp.info/trivision36/envivo/chunklist_w2041923464.m3u8
+https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-name="Tele Uno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png" group-title="COSTA RICA",TELEUNO
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w258842420.m3u8
